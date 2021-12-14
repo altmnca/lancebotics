@@ -173,7 +173,7 @@
                             <img src="media/team/CircleY.png" class="teamimage">
                             <div class="teamcontent">
                                 <h2 class="center">
-                                    200Y
+                                    Media 
                                 </h2>
                                 <p class="center">
                                     The Indomitable Team
@@ -372,7 +372,7 @@
                         <br>
                         Queen Of The Castle: Clinton Jang-Naruse
                         <br>
-                        Principal: Marisa Cocco
+                        Principal: Micheal Griesz
                         <br>
                         Vice Principals: Rosanna Kerigan and Barbara Nixon 
                         <br>
@@ -435,6 +435,12 @@
                         Website Archive
                     </h2>
                     <p>
+		        <a href="archives/lancebotics2019/index.html" target="_blank">
+                            2020 - 2021 Season <img src="../media/special/arrowGreen.png">
+                        </a>
+
+                        <br>
+			
                         <a href="html/archives/lancebotics2019/index.html" target="_blank">
                             2019 - 2020 Season <img src="media/special/arrowGreen.png">
                         </a>
